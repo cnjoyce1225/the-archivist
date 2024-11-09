@@ -16,21 +16,24 @@ Sample `user` resource
 ```js
 
 {
-    "last_name": "Carter",
-    "first_name": "Liam",
-    "privacy": "public",
-    "email": "liam.carter@example.com",
-    "id": 1
+   "collection_id": 101,
+   "user_id": 1,
+   "name": "Favorite Classics",
+   "privacy": "private",
+   "created_at": "2023-08-15",
+   "books":
+    {}
 }
 ```
 
 | Property name | Type | Description |
 | ------------- | ----------- | ----------- |
-| `last_name` | string | The user's last name |
-| `first_name` | string | The user's first name |
+| `collection_id` | number | ID of the collection |
+| `user_id` | number | The user's ID |
+| `name` | string | A title for the collection |
 | `privacy` | string | The user's privacy choice |
-| `email` | string | The user's email address |
-| `id` | number | The user's unique record ID |
+| `created_at` | string | The date the collection was created |
+| `books` | array | List of books inthe collection |
 
 ## READ
 
