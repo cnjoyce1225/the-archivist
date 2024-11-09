@@ -1,0 +1,198 @@
+{
+  "users": [
+    {
+      "last_name": "Carter",
+      "first_name": "Liam",
+      "privacy": "public",
+      "email": "liam.carter@example.com",
+      "id": 1
+    },
+    {
+      "last_name": "Nguyen",
+      "first_name": "Sophia",
+      "privacy": "public",
+      "email": "sophia.nguyen@example.com",
+      "id": 2
+    },
+    {
+      "last_name": "Ramirez",
+      "first_name": "Ethan",
+      "privacy": "private",
+      "email": "ethan.ramirez@example.com",
+      "id": 3
+    },
+    {
+      "last_name": "Patel",
+      "first_name": "Olivia",
+      "privacy": "private",
+      "email": "olivia.patel@example.com",
+      "id": 4
+    }
+  ],
+  "collections": [
+    {
+      "collection_id": 101,
+      "user_id": 1,
+      "name": "Favorite Classics",
+      "privacy": "private",
+      "created_at": "2023-08-15",
+      "books": [
+        {
+          "book_id": 26,
+          "title": "Wuthering Heights",
+          "author": "Emily Brontë",
+          "isbn": "NA",
+          "edition": "US First Edition",
+          "year": "1848",
+          "publisher": "Harper & Brothers",
+          "cover type": "Cloth",
+          "condition": "Good",
+          "price": "$17,500",
+          "seller": "Heritage Books Haven",
+          "language": "English",
+          "status": "Acquired",
+        },
+        {
+          "book_id": 29,
+          "title": "Dracula",
+          "author": "Bram Stoker",
+          "isbn": "NA",
+          "edition": "First Edition",
+          "year": "1897",
+          "publisher": "Archibald Constable and Company",
+          "cover type": "Hardcover",
+          "condition": "Near Fine",
+          "price": "$40,000",
+          "seller": "The Raven's Claw Rare Books Emporium",
+          "language": "English",
+          "status": "Acquired",
+        }
+      ]
+    },
+    {
+      "collection_id": 201,
+      "user_id": 2,
+      "name": "The Tolkien Archives",
+      "privacy": "public",
+      "created_at": "2023-09-01",
+      "books": [
+        {
+          "book_id": 1,
+          "title": "History of Middle Earth Box Set 1",
+          "author": "J.R.R. Tolkien",
+          "isbn": "978-0-063-37984-8",
+          "edition": "First Edition",
+          "year": "2024",
+          "publisher": "William Morrow",
+          "cover type": "Hardcover",
+          "condition": "New",
+          "price": "$68.99",
+          "seller": "Amazon",
+          "language": "English",
+          "status": "Acquisition Pending",
+        },
+        {
+          "book_id": 2,
+          "title": "The Silmarillion",
+          "author": "J.R.R. Tolkien",
+          "isbn": "978-0-063-339619-7",
+          "edition": "First Edition",
+          "year": "2024",
+          "publisher": "William Morrow",
+          "cover type": "Hardcover",
+          "condition": "New",
+          "price": "$24.50",
+          "seller": "Amazon",
+          "language": "English",
+          "status": "Acquired",
+        }
+      ]
+    },
+    {
+      "collection_id": 202,
+      "user_id": 2,
+      "name": "Chinese Reading Practice",
+      "privacy": "public",
+      "created_at": "2023-07-10",
+      "books": [
+        {
+          "book_id": 31,
+          "title": "The Three-Body Problem (1-3 Vol. Set) (Chinese Edition)",
+          "author": "Liu Cixin",
+          "isbn": "B00SEQM6U4 (ASIN)",
+          "edition": "First Edition",
+          "year": "2015",
+          "publisher": "ChongQing Press",
+          "condition": "New",
+          "price": "$20.90",
+          "seller": "Amazon",
+          "language": "Chinese",
+          "status": "Acquired",
+        }
+      ]
+    },
+    {
+      "collection_id": 301,
+      "user_id": 3,
+      "name": "Misc. Wishlist",
+      "privacy": "private",
+      "created_at": "2023-06-01",
+      "books": [
+        {
+          "book_id": 1,
+          "title": "The Things They Carried",
+          "author": "Tim O'Brien",
+          "isbn": "978-0-618-70641-3",
+          "edition": "First Edition",
+          "year": "1990",
+          "publisher": "Franklin Library",
+          "cover type": "Hardcover",
+          "condition": "Fine",
+          "price": "$375",
+          "seller": "Legacy Literature",
+          "language": "English",
+          "status": "Acquisition Pending",
+        }
+      ]
+    },
+    {
+      "collection_id": 401,
+      "user_id": 4,
+      "name": "Translated Literature",
+      "privacy": "private",
+      "created_at": "2023-06-20",
+      "books": [
+        {
+          "book_id": 1,
+          "title": "Norwegian Wood",
+          "author": "Haruki Murakami",
+          "isbn": "978-0-307-27873-9",
+          "edition": "Unknown",
+          "year": "1987",
+          "publisher": "Vintage",
+          "cover type": "Paperback",
+          "condition": "Good",
+          "price": "$3",
+          "seller": "Sandpiper Books",
+          "language": "English",
+          "status": "Acquired",
+        },
+        {
+          "book_id": 2,
+          "title": "All Quiet on the Western Front",
+          "author": "Erich Maria Remarque",
+          "isbn": "978-0-449-21394-0",
+          "edition": "Unknown",
+          "year": "1987",
+          "publisher": "Ballantine Books",
+          "cover type": "Paperback",
+          "condition": "Very Good",
+          "price": "$5",
+          "seller": "Sandpiper Books",
+          "language": "English",
+          "status": "Acquired",
+        }
+      ]
+    }
+  ]
+}
