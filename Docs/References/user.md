@@ -11,13 +11,13 @@ The `user` resource contains details about the individual using the service.
 
 ## Resource properties
 
-| Property name | Type | Description |
-| ------------- | ----------- | ----------- |
-| `last_name` | string | The user's last name | Required |
-| `first_name` | string | The user's first name | Required |
-| `privacy` | string | The user's privacy choice | Required |
-| `email` | string | The user's email address | Required |
-| `id` | number | The user's unique record ID | Required |
+| Property name | Type | Description | Required? |
+| ------------- | ----------- | ----------- | ----------- |
+| `last_name` | string | The user's last name | Yes |
+| `first_name` | string | The user's first name | Yes |
+| `privacy` | string | The user's privacy choice | Yes |
+| `email` | string | The user's email address | Yes |
+| `id` | number | The user's unique record ID | Yes |
 
 Sample `user` resource
 
