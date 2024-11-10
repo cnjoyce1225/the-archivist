@@ -7,7 +7,7 @@ Base endpoint:
 {base_url}/users
 ```
 
-Contains information about the users of the service.
+The `user` resource contains details about the individual using the service. All the properties listed below are ***required***.
 
 ## Resource properties
 
