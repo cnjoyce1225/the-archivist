@@ -4,10 +4,10 @@ Base endpoint:
 
 ```shell
 
-{base_url}/users
+{base_url}/collections
 ```
 
-Contains information about the users of the service.
+The `collection` resource contains details pertinent to the book collection. A `collection` may be blank, or include one or more books.
 
 ## Resource properties
 
