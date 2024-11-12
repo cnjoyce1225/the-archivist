@@ -15,8 +15,8 @@ Learn how to complete basic tasks with the To-Do service!
 * 
 * 
 
-## API resource reference docs
+## Resource reference docs
 
 
 * [users](https://github.com/cnjoyce1225/the-archivist/blob/d1b8a5900359d2e2a61c42889aacb340c79a7754/Docs/References/user.md)
-* [collections]
+* [collections](https://github.com/cnjoyce1225/the-archivist/blob/5e75439db5863695282d13dc6271d05ebb27e3db/Docs/References/collections.md)
