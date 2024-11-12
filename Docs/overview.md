@@ -15,8 +15,8 @@ Learn how to complete basic tasks with the To-Do service!
 * 
 * 
 
-## API reference docs
+## API resource reference docs
 
 
-* books
-* users resource
+* [users](Docs/References/user.md)
+* [collections]
