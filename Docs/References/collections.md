@@ -49,8 +49,8 @@ The properies of a collection are as follows:
 | `created_at` | string | Date the collection was created  | Yes |
 | `books` | array | List of books in the collection  | No |
 
-The `books` property has its own properties:
-The properies of a collection are as follows:
+<details><summary>The `books` property has its own properties. Click here to pull those up!</summary>
+
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
 | `book_id` | number | ID of the book in the user's database | Yes |
@@ -66,6 +66,8 @@ The properies of a collection are as follows:
 | `seller` | string | Store the book was purchased from  | No |
 | `language` | string | Language the book's text is in  | No |
 | `status` | string | How much of the book has been read  | No |
+
+</details>
 
 ## READ
 
