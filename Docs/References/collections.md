@@ -29,10 +29,10 @@ Sample `user` resource
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
 | `collection_id` | number | ID of the collection | Yes |
-| `user_id` | number | The user's ID  | Yes |
-| `name` | string | A title for the collection  | Yes |
-| `privacy` | string | The user's privacy choice  | Yes |
-| `created_at` | string | The date the collection was created  | Yes |
+| `user_id` | number | User's ID  | Yes |
+| `name` | string | Title for the collection  | Yes |
+| `privacy` | string | [Privacy level of the collection](https://github.com/cnjoyce1225/the-archivist/blob/bbd5931f192693c62aa5172a50486bfbd16edb9e/Docs/References/privacy.md)  | Yes |
+| `created_at` | string | Date the collection was created  | Yes |
 | `books` | array | List of books inthe collection  | No |
 
 ## READ
