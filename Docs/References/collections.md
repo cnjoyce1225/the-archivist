@@ -49,6 +49,7 @@ The properies of a collection are as follows:
 | `created_at` | string | Date the collection was created  | Yes |
 | *`books` | array | List of books in the collection  | No |
 
+<br>
 
 <details><summary>*The `books` property has its own properties. Click here to pull those up!</summary>
 
