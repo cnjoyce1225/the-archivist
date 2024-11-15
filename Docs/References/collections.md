@@ -47,10 +47,10 @@ The properies of a collection are as follows:
 | `name` | string | Title for the collection  | Yes |
 | `privacy` | string | [Privacy level of the collection](https://github.com/cnjoyce1225/the-archivist/blob/9dbb03c52f3094ad080aaba5c88647ca44a9ed16/Docs/References/privacy.md)  | Yes |
 | `created_at` | string | Date the collection was created  | Yes |
-| `books` | array | List of books in the collection  | No |
+| *`books` | array | List of books in the collection  | No |
 
 
-<details><summary>The `books` property has its own properties. Click here to pull those up!</summary>
+<details><summary>*The `books` property has its own properties. Click here to pull those up!</summary>
 
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
