@@ -66,8 +66,8 @@ The properies of a collection are as follows:
 | `price` | number | Price paid for the book | No |
 | `seller` | string | Store the book was purchased from  | No |
 | `language` | string | Language the book's text is in  | No |
-| `status` | string | How much of the book has been read  | No |  
-
+| `status` | string | How much of the book has been read  | No |
+  
 </details>
 
 ## READ
