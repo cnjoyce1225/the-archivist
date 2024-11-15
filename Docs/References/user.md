@@ -15,7 +15,7 @@ The `user` resource contains details about the individual using the service.
 | ------------- | ----------- | ----------- | ----------- |
 | `last_name` | string | The user's last name | Yes |
 | `first_name` | string | The user's first name | Yes |
-| `privacy` | string | The user's privacy choice | Yes |
+| `privacy` | string | [privacy level of user](https://github.com/cnjoyce1225/the-archivist/blob/bbd5931f192693c62aa5172a50486bfbd16edb9e/Docs/References/privacy.md) | Yes |
 | `email` | string | The user's email address | Yes |
 | `id` | number | The user's unique record ID | Yes |
 
