@@ -9,9 +9,7 @@ Base endpoint:
 
 The `collection` resource contains details pertinent to the book collection. A `collection` may be blank, or include one or more books.
 
-## Resource properties
-
-Sample `user` resource
+## Sample of the `user` resource
 
 ```js
 
