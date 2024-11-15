@@ -16,13 +16,27 @@ Sample `user` resource
 ```js
 
 {
-   "collection_id": 101,
-   "user_id": 1,
-   "name": "Favorite Classics",
-   "privacy": "private",
-   "created_at": "2023-08-15",
-   "books":
-    {}
+      "collection_id": 101,
+      "user_id": 1,
+      "name": "Favorite Classics",
+      "privacy": "private",
+      "created_at": "2023-08-15",
+      "books": [
+        {
+          "book_id": 26,
+          "title": "Wuthering Heights",
+          "author": "Emily Brontë",
+          "isbn": "NA",
+          "edition": "US First Edition",
+          "year": "1848",
+          "publisher": "Harper & Brothers",
+          "cover type": "Cloth",
+          "condition": "Good",
+          "price": "$17,500",
+          "seller": "Heritage Books Haven",
+          "language": "English",
+          "status": "Acquired",
+        }
 }
 ```
 
