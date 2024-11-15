@@ -40,7 +40,7 @@ Sample `user` resource
 }
 ```
 
-##Properties
+## Properties
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
 | `collection_id` | number | ID of the collection | Yes |
