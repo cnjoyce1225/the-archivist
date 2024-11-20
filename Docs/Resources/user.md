@@ -33,6 +33,11 @@ Sample `user` resource
 ```
 
 
-## READ
+## CRUD actions for `users`
 
-* 
+<details><summary>Click here for a list of topics!</summary>
+
+* [Add users](https://github.com/cnjoyce1225/the-archivist/blob/b8a83f17422a7e9a015a7ef29e576512491659e8/Docs/Resources/CRUD-topics/add-users.md)
+* [Pull users](https://github.com/cnjoyce1225/the-archivist/blob/b8a83f17422a7e9a015a7ef29e576512491659e8/Docs/Resources/CRUD-topics/get-users.md)
+
+</details>
