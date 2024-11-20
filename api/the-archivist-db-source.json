@@ -31,14 +31,14 @@
   ],
   "collections": [
     {
-      "collection_id": 101,
+      "id": 101,
       "user_id": 1,
       "name": "Favorite Classics",
       "privacy": "private",
       "created_at": "2023-08-15",
       "books": [
         {
-          "book_id": 26,
+          "id": 1,
           "title": "Wuthering Heights",
           "author": "Emily Brontë",
           "isbn": "NA",
@@ -50,10 +50,10 @@
           "price": "$17,500",
           "seller": "Heritage Books Haven",
           "language": "English",
-          "status": "Acquired",
+          "status": "Acquired"
         },
         {
-          "book_id": 29,
+          "id": 2,
           "title": "Dracula",
           "author": "Bram Stoker",
           "isbn": "NA",
@@ -65,19 +65,19 @@
           "price": "$40,000",
           "seller": "The Raven's Claw Rare Books Emporium",
           "language": "English",
-          "status": "Acquired",
+          "status": "Acquired"
         }
       ]
     },
     {
-      "collection_id": 201,
+      "id": 201,
       "user_id": 2,
       "name": "The Tolkien Archives",
       "privacy": "public",
       "created_at": "2023-09-01",
       "books": [
         {
-          "book_id": 1,
+          "id": 1,
           "title": "History of Middle Earth Box Set 1",
           "author": "J.R.R. Tolkien",
           "isbn": "978-0-063-37984-8",
@@ -89,10 +89,10 @@
           "price": "$68.99",
           "seller": "Amazon",
           "language": "English",
-          "status": "Acquisition Pending",
+          "status": "Acquisition Pending"
         },
         {
-          "book_id": 2,
+          "id": 2,
           "title": "The Silmarillion",
           "author": "J.R.R. Tolkien",
           "isbn": "978-0-063-339619-7",
@@ -104,19 +104,19 @@
           "price": "$24.50",
           "seller": "Amazon",
           "language": "English",
-          "status": "Acquired",
+          "status": "Acquired"
         }
       ]
     },
     {
-      "collection_id": 202,
+      "id": 202,
       "user_id": 2,
       "name": "Chinese Reading Practice",
       "privacy": "public",
       "created_at": "2023-07-10",
       "books": [
         {
-          "book_id": 31,
+          "id": 1,
           "title": "The Three-Body Problem (1-3 Vol. Set) (Chinese Edition)",
           "author": "Liu Cixin",
           "isbn": "B00SEQM6U4 (ASIN)",
@@ -127,19 +127,19 @@
           "price": "$20.90",
           "seller": "Amazon",
           "language": "Chinese",
-          "status": "Acquired",
+          "status": "Acquired"
         }
       ]
     },
     {
-      "collection_id": 301,
+      "id": 301,
       "user_id": 3,
       "name": "Misc. Wishlist",
       "privacy": "private",
       "created_at": "2023-06-01",
       "books": [
         {
-          "book_id": 1,
+          "id": 1,
           "title": "The Things They Carried",
           "author": "Tim O'Brien",
           "isbn": "978-0-618-70641-3",
@@ -151,19 +151,19 @@
           "price": "$375",
           "seller": "Legacy Literature",
           "language": "English",
-          "status": "Acquisition Pending",
+          "status": "Acquisition Pending"
         }
       ]
     },
     {
-      "collection_id": 401,
+      "id": 401,
       "user_id": 4,
       "name": "Translated Literature",
       "privacy": "private",
       "created_at": "2023-06-20",
       "books": [
         {
-          "book_id": 1,
+          "id": 1,
           "title": "Norwegian Wood",
           "author": "Haruki Murakami",
           "isbn": "978-0-307-27873-9",
@@ -175,10 +175,10 @@
           "price": "$3",
           "seller": "Sandpiper Books",
           "language": "English",
-          "status": "Acquired",
+          "status": "Acquired"
         },
         {
-          "book_id": 2,
+          "id": 2,
           "title": "All Quiet on the Western Front",
           "author": "Erich Maria Remarque",
           "isbn": "978-0-449-21394-0",
@@ -190,7 +190,7 @@
           "price": "$5",
           "seller": "Sandpiper Books",
           "language": "English",
-          "status": "Acquired",
+          "status": "Acquired"
         }
       ]
     }
