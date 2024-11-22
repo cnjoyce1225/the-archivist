@@ -106,3 +106,9 @@ The expected JSON response for the collections might look like this:
   ]
 }
 ```
+
+---
+
+### Note:
+- Replace `https://yourapi.com/api/collections` with the actual endpoint of your API that returns the list of collections.
+- Make sure your API server is running and accessible when you execute these requests.

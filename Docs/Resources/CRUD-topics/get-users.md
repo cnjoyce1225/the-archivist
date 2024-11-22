@@ -56,3 +56,10 @@ The expected JSON response for the users might look like this:
   ]
 }
 ]
+```
+
+---
+
+### Note:
+- Replace `https://yourapi.com/api/users` with the actual endpoint of your API that returns the list of users.
+- Make sure your API server is running and accessible when you execute these requests.
