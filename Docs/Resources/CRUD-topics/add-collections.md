@@ -50,3 +50,10 @@ The expected JSON response after successfully adding the collection might look l
   "books": []
 }
 ```
+
+---
+
+### Note:
+- Replace `https://yourapi.com/api/collections` with the actual endpoint of your API that adds a collection.
+- Ensure that the `user_id` corresponds to a valid user in your database.
+- Ensure your API server is running and accessible when you execute these requests.
