@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: default
+title: Home
+nav_enabled: true
 ---
 
 # The Archivist
