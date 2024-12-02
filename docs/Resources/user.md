@@ -35,11 +35,8 @@ Sample `user` resource
 
 ## CRUD actions for `users`
 
-<details><summary>Click here for a list of topics!</summary>
-
 * [Add users](./Resources/CRUD-topics/add-users.md)
 * [Pull users](./Resources/CRUD-topics/get-users.md)
 * [Update users](./Resources/CRUD-topics/update-users.md)
 * [Delete users](./Resources/CRUD-topics/delete-users.md)
 
-</details>
