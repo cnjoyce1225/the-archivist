@@ -10,7 +10,10 @@ The Archivist is an API to help book enthusiasts stay organized! Users can keep 
 
 ## Before getting started
 
-Please [click here](./Tutorials/getting-started.md) for a guide that will ensure you're set up to use this API.
+Please [click here](./Tutorials/getting-started.md) for a guide that will ensure your systems are set up to use this API.
+
+## Quickstart
+Once you've followed the `Getting Started` guide above, [click here](./Tutorials/quickstart.md) to learn the basics of working with this API.
 
 ## Resource reference docs
 You can learn how to use the API's two resources by exploring their pages below:
