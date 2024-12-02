@@ -73,11 +73,8 @@ The properies of a collection are as follows:
 
 ## CRUD actions for `users`
 
-<details><summary>Click here for a list of topics!</summary>
-
 * [Add collections](https://github.com/cnjoyce1225/the-archivist/blob/b8a83f17422a7e9a015a7ef29e576512491659e8/Docs/Resources/CRUD-topics/add-collections.md)
 * [Pull collections](https://github.com/cnjoyce1225/the-archivist/blob/b8a83f17422a7e9a015a7ef29e576512491659e8/Docs/Resources/CRUD-topics/get-collections.md)
 * [Update collections](https://github.com/cnjoyce1225/the-archivist/blob/0a5b13bb1411f3ff7b56cb9156a9f87ca316f68f/Docs/Resources/CRUD-topics/update-collections.md)
 * [Delete collections](https://github.com/cnjoyce1225/the-archivist/blob/0a5b13bb1411f3ff7b56cb9156a9f87ca316f68f/Docs/Resources/CRUD-topics/delete-collections.md)
 
-</details>
