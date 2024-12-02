@@ -73,9 +73,9 @@ The properies of a collection are as follows:
 
 ## CRUD actions for `collections`
 
-* [Add collections](./Resources/CRUD-topics/add-collections.md)
-* [Pull collections](./Resources/CRUD-topics/get-collections.md)
-* [Update collections](./Resources/CRUD-topics/update-collections.md)
-* [Delete collections](./Resources/CRUD-topics/delete-collections.md)
+* [Add collections](./CRUD-topics/add-collections.md)
+* [Pull collections](./CRUD-topics/get-collections.md)
+* [Update collections](./CRUD-topics/update-collections.md)
+* [Delete collections](./CRUD-topics/delete-collections.md)
 
 
