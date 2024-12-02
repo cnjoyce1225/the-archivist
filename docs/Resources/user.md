@@ -37,9 +37,9 @@ Sample `user` resource
 
 <details><summary>Click here for a list of topics!</summary>
 
-* [Add users](https://github.com/cnjoyce1225/the-archivist/blob/b8a83f17422a7e9a015a7ef29e576512491659e8/Docs/Resources/CRUD-topics/add-users.md)
-* [Pull users](https://github.com/cnjoyce1225/the-archivist/blob/b8a83f17422a7e9a015a7ef29e576512491659e8/Docs/Resources/CRUD-topics/get-users.md)
-* [Update users](https://github.com/cnjoyce1225/the-archivist/blob/0a5b13bb1411f3ff7b56cb9156a9f87ca316f68f/Docs/Resources/CRUD-topics/update-users.md)
-* [Delete users](https://github.com/cnjoyce1225/the-archivist/blob/0a5b13bb1411f3ff7b56cb9156a9f87ca316f68f/Docs/Resources/CRUD-topics/delete-users.md)
+* [Add users](./Resources/CRUD-topics/add-users.md)
+* [Pull users](./Resources/CRUD-topics/get-users.md)
+* [Update users](./Resources/CRUD-topics/update-users.md)
+* [Delete users](./Resources/CRUD-topics/delete-users.md)
 
 </details>
