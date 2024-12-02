@@ -9,7 +9,7 @@ The `collection` resource contains details pertinent to the book collection. A `
 ```
 
 
-## Sample of the `user` resource
+## Sample of the `collections` resource
 
 ```js
 
@@ -71,7 +71,7 @@ The properies of a collection are as follows:
   
 </details>
 
-## CRUD actions for `users`
+## CRUD actions for `collections`
 
 * [Add collections](./Resources/CRUD-topics/add-collections.md)
 * [Pull collections](./Resources/CRUD-topics/get-collections.md)
