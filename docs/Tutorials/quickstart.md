@@ -29,6 +29,6 @@ Each `collection` has the following attributes:
 Choose Your Tool:
 
 * Use cURL for command-line interactions.
-  * [Click here](./Tutorials/curl-setup.md) for next steps in cURL!
+  * [Click here](./curl-setup.md) for next steps in cURL!
 * Use Postman for a graphical interface to make API requests.
-  * [Click here](./Tutorials/postman-setup.md) for next steps in Postman!
+  * [Click here](./postman-setup.md) for next steps in Postman!
