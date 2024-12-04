@@ -8,9 +8,9 @@ In this reference, you'll learn how to delete a user from your API using Postman
 2. Set the request type to **DELETE**.
 3. Enter the URL for your API endpoint that deletes a user, including the user ID. For example:
 
-```shell
-https://yourapi.com/api/users/1
-```
+  ```shell
+  https://yourapi.com/api/users/1
+  ```
 
 (Replace `1` with the actual ID of the user you wish to delete.)
 4. Click on the **Send** button to execute the request.
@@ -31,7 +31,6 @@ The expected response after successfully deleting the user might look like this:
 
 You can use the following curl command in your terminal or command prompt to make the same DELETE request:
 ```shell
-bash
 curl -X DELETE "https://yourapi.com/api/users/1"
 ```
 

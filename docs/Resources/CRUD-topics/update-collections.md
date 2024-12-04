@@ -51,7 +51,6 @@ The expected response after successfully updating the collection might look like
 You can use the following curl command in your terminal or command prompt to make the same update request:
 
 ```shell
-bash
 curl -X PUT "https://yourapi.com/api/collections/101" \
 -H "Content-Type: application/json" \
 -d '{
@@ -65,7 +64,7 @@ curl -X PUT "https://yourapi.com/api/collections/101" \
 
 The expected response from the curl command after successfully updating the collection might look like this:
 
-```js
+  ```js
 {
   "message": "Collection updated successfully",
   "collection": {
@@ -76,7 +75,7 @@ The expected response from the curl command after successfully updating the coll
     "created_at": "2023-10-01"
   }
 }
-```
+  ```
 
 ---
 

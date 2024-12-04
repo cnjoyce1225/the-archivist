@@ -8,9 +8,9 @@ In this reference, you'll learn how to delete a book from a collection in your A
 2. Set the request type to **DELETE**.
 3. Enter the URL for your API endpoint that deletes a book from a specific collection, including the collection ID and the book ID. For example:
 
-```shell
-https://yourapi.com/api/collections/101/books/1
-```
+  ```shell
+  https://yourapi.com/api/collections/101/books/1
+  ```
 
 (Replace `101` with the actual ID of the collection and `1` with the actual ID of the book you wish to delete.)
 4. Click on the **Send** button to execute the request.
@@ -33,7 +33,6 @@ The expected response after successfully deleting the book might look like this:
 You can use the following curl command in your terminal or command prompt to make the same DELETE request:
 
 ```shell
-bash
 curl -X DELETE "https://yourapi.com/api/collections/101/books/1"
 ```
 

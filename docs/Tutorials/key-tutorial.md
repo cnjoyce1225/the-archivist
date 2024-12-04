@@ -130,7 +130,7 @@ with open('the-archivist-db-source.json', 'w') as file:
 
 Similar to adding a user, you can create a new collection and append it to the `collections` array.
 
-```shell
+  ```shell
 new_collection = {
     "id": 501,
     "user_id": 1,
@@ -145,7 +145,7 @@ data['collections'].append(new_collection)
 # Save the updated data back to the JSON file
 with open('the-archivist-db-source.json', 'w') as file:
     json.dump(data, file, indent=4)
-```
+  ```
 
 ### 4. Querying Data
 

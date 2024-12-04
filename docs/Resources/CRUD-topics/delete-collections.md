@@ -33,7 +33,6 @@ The expected response after successfully deleting the collection might look like
 You can use the following curl command in your terminal or command prompt to make the same DELETE request:
 
 ```shell
-bash
 curl -X DELETE "https://yourapi.com/api/collections/101"
 ```
 
