@@ -15,7 +15,6 @@ https://yourapi.com/api/users
 ### Using Curl
 You can use the following curl command in your terminal or command prompt to make the same GET request:
 ```shell
-bash
 curl -X GET "https://yourapi.com/api/users"
 ```
 ### Example Output

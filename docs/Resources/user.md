@@ -3,7 +3,6 @@
 Base endpoint:
 
 ```shell
-
 {base_url}/users
 ```
 
@@ -21,7 +20,7 @@ The `user` resource contains details about the individual using the service.
 
 Sample `user` resource
 
-```js
+  ```js
 
 {
     "last_name": "Carter",
@@ -30,7 +29,7 @@ Sample `user` resource
     "email": "liam.carter@example.com",
     "id": 1
 }
-```
+  ```
 
 
 ## CRUD actions for `users`

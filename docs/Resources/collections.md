@@ -4,7 +4,6 @@ The `collection` resource contains details pertinent to the book collection. A `
 ## Base endpoint:
 
 ```shell
-
 {base_url}/collections
 ```
 
@@ -12,7 +11,6 @@ The `collection` resource contains details pertinent to the book collection. A `
 ## Sample of the `collections` resource
 
 ```js
-
 {
       "collection_id": 101,
       "user_id": 1,
@@ -39,7 +37,7 @@ The `collection` resource contains details pertinent to the book collection. A `
 ```
 
 ## Properties
-The properies of a collection are as follows:
+The properies of a `collection` are as follows:
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
 | `collection_id` | number | ID of the collection | Yes |
@@ -47,11 +45,10 @@ The properies of a collection are as follows:
 | `name` | string | Title for the collection  | Yes |
 | `privacy` | string | [Privacy level of the collection](https://github.com/cnjoyce1225/the-archivist/blob/9dbb03c52f3094ad080aaba5c88647ca44a9ed16/Docs/References/privacy.md)  | Yes |
 | `created_at` | string | Date the collection was created  | Yes |
-| *`books` | array | List of books in the collection  | No |
+| *`books` | array | List of books in the collection  | No |  
 
-<br>
 
-<details><summary>*The `books` property has its own properties. Click here to pull those up!</summary>
+The `books` property has its own properties:
 
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
@@ -69,7 +66,7 @@ The properies of a collection are as follows:
 | `language` | string | Language the book's text is in  | No |
 | `status` | string | How much of the book has been read  | No |
   
-</details>
+
 
 ## CRUD actions for `collections`
 

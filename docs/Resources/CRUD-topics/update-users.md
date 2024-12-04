@@ -16,14 +16,14 @@ https://yourapi.com/api/users/1
 4. In the **Body** tab, select **raw** and set the type to **JSON**.
 5. Add the JSON payload with the updated user information. For example:
 
-```js
-{
+  ```js
+  {
   "first_name": "John",
   "last_name": "Doe",
   "email": "john.doe@example.com",
   "privacy": "private"
-}
-```
+  }
+  ```
 
 6. Click on the **Send** button to execute the request.
 7. You should see a response indicating that the user has been successfully updated.
@@ -52,7 +52,6 @@ The expected response after successfully updating the user might look like this:
 You can use the following curl command in your terminal or command prompt to make the same update request:
 
 ```shell
-bash
 curl -X PUT "https://yourapi.com/api/users/1" \
 -H "Content-Type: application/json" \
 -d '{
@@ -68,7 +67,6 @@ curl -X PUT "https://yourapi.com/api/users/1" \
 The expected response from the curl command after successfully updating the user might look like this:
 
 ```js
-
 {
   "message": "User updated successfully",
   "user": {

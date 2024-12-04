@@ -20,12 +20,9 @@ Before you start using the `the-archivist-db-source.json` file to complete tasks
 ---
 
 ## Let's get started!
-
-<details><summary>
    
 ### Step 1: Create an API Server
 
-</summary>
 
 To interact with the JSON data, you need to create a simple API server. This can be done using Node.js and Express, as shown in the previous guides. Follow these steps:
 
@@ -33,7 +30,6 @@ To interact with the JSON data, you need to create a simple API server. This can
    Open your command line and navigate to your project directory. Run the following command:
 
    ``` shell
-   bash
    npm init -y
    ```
 
@@ -41,20 +37,15 @@ To interact with the JSON data, you need to create a simple API server. This can
 Install Express and body-parser by running:
 
    ``` shell
-   bash
    npm install express body-parser
    ```
 
 3. **Create a Server File**:
    Create a file named `server.js` and set up a simple Express server to read from your JSON file. You can refer to the code provided in previous steps to set up your server and endpoints.
 
-</details>
-
-<details><summary>
 
 ### Step 2: Start the API Server
 
-</summary>
 
 1. **Run the Server**:
    In your command line, execute the following command in your project directory:
@@ -67,13 +58,9 @@ Install Express and body-parser by running:
 2. **Verify the Server is Running**:
    You should see an output message confirming that the server is running at a specified URL (e.g., `http://localhost:3000`).
 
-</details>
-
-<details><summary>
 
 ### Step 3: Testing Your Development System
 
-</summary>
 
 Now that your API server is running, it’s time to test your setup using cURL and Postman.
 
@@ -86,7 +73,6 @@ Now that your API server is running, it’s time to test your setup using cURL a
    Run the following command to fetch the users:
 
    ``` shell
-   bash
    curl http://localhost:3000/users
    ```
 
@@ -94,7 +80,6 @@ Now that your API server is running, it’s time to test your setup using cURL a
    Run this command to fetch collections:
 
    ``` shell
-   bash
    curl http://localhost:3000/collections
    ``` shell
 
@@ -119,4 +104,3 @@ Now that your API server is running, it’s time to test your setup using cURL a
    - Create another request with the URL: `http://localhost:3000/collections`
    - Click "Send" and check for the collections data in the response.
   
-</details>

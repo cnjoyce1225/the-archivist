@@ -10,15 +10,15 @@ https://yourapi.com/api/collections
 ```
 4. In the **Body** tab, select **raw** and set the type to **JSON**.
 5. Add the JSON payload for the new collection. For example:
-```js
-{
-  "user_id": 1,
-  "name": "New Collection Name",
-  "privacy": "private",
-  "created_at": "2023-10-01",
-  "books": []
-}
-```
+  ```js
+  {
+    "user_id": 1,
+    "name": "New Collection Name",
+    "privacy": "private",
+    "created_at": "2023-10-01",
+    "books": []
+  }
+  ```
 6. Click on the **Send** button to execute the request.
 7. You should see the response indicating that the collection has been added.
 
@@ -26,7 +26,6 @@ https://yourapi.com/api/collections
 
 You can use the following curl command in your terminal or command prompt to make the same POST request:
 ```shell
-bash
 curl -X POST "https://yourapi.com/api/collections" \
 -H "Content-Type: application/json" \
 -d '{
@@ -40,16 +39,16 @@ curl -X POST "https://yourapi.com/api/collections" \
 ### Example Response
 
 The expected JSON response after successfully adding the collection might look like this:
-```js
-{
+  ```js
+  {
   "id": 501,
   "user_id": 1,
   "name": "New Collection Name",
   "privacy": "private",
   "created_at": "2023-10-01",
   "books": []
-}
-```
+  }
+  ```
 
 ---
 
