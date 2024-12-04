@@ -32,10 +32,10 @@ Sample `user` resource
   ```
 
 
-## CRUD actions for `users`
+## Actions for `users`
 
-* [Add users](./CRUD-topics/add-users.md)
-* [Pull users](./CRUD-topics/get-users.md)
+* [Create users](./CRUD-topics/add-users.md)
+* [Get users](./CRUD-topics/get-users.md)
 * [Update users](./CRUD-topics/update-users.md)
 * [Delete users](./CRUD-topics/delete-users.md)
 

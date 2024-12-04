@@ -8,11 +8,11 @@ nav_enabled: true
 
 The Archivist is an API to help book enthusiasts stay organized! Users can keep track of books they have already added, or aspire to add, to their collection. It can be easily integrated to applications you might use to keep track of other hobbies or databases!
 
-We recommend checking out our [list of use cases](./Tutorials/use-cases.md) for this API!
+We recommend checking out our [list of use cases](./Tutorials/use-cases.md) for this API.
 
 ## Before getting started
 
-Please [click here](./Tutorials/getting-started.md) for a guide that will ensure your systems are set up to use this API.
+Before putting The Archivist to use, please use our [Getting Started guide](./Tutorials/getting-started.md) that will ensure your systems are set up to use this API.
 
 ## Quickstart
 Once you've followed the `Getting Started` guide above, [click here](./Tutorials/quickstart.md) to learn the basics of working with this API.

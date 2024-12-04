@@ -68,10 +68,10 @@ The `books` property has its own properties:
   
 
 
-## CRUD actions for `collections`
+## Actions for `collections`
 
-* [Add collections](./CRUD-topics/add-collections.md)
-* [Pull collections](./CRUD-topics/get-collections.md)
+* [Create collections](./CRUD-topics/add-collections.md)
+* [Get collections](./CRUD-topics/get-collections.md)
 * [Update collections](./CRUD-topics/update-collections.md)
 * [Delete collections](./CRUD-topics/delete-collections.md)
 
