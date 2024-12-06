@@ -1,4 +1,4 @@
-# Pull `collections`
+# Get `collections`
 
 ### Using Postman
 
