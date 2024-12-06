@@ -1,4 +1,4 @@
-# Pull `users`
+# Get `users`
 
 ### Using Postman
 
