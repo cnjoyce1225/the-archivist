@@ -6,7 +6,7 @@
 2. Set the request type to **POST**.
 3. Enter the URL for your API endpoint that adds a collection, for example:
 ```shell
-https://yourapi.com/api/collections
+http://localhost:3000/collections
 ```
 4. In the **Body** tab, select **raw** and set the type to **JSON**.
 5. Add the JSON payload for the new collection. For example:
