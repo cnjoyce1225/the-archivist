@@ -1,3 +1,7 @@
+---
+id: user
+---
+
 # `user` resource
 
 Base endpoint:
