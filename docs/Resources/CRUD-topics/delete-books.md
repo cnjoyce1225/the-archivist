@@ -9,7 +9,7 @@ In this reference, you'll learn how to delete a book from a collection in your A
 3. Enter the URL for your API endpoint that deletes a book from a specific collection, including the collection ID and the book ID. For example:
 
   ```shell
-  https://yourapi.com/api/collections/101/books/1
+  http://localhost:3000/collections/101/books/1
   ```
 
 (Replace `101` with the actual ID of the collection and `1` with the actual ID of the book you wish to delete.)
