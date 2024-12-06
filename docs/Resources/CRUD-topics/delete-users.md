@@ -9,7 +9,7 @@ In this reference, you'll learn how to delete a user from your API using Postman
 3. Enter the URL for your API endpoint that deletes a user, including the user ID. For example:
 
   ```shell
-  https://yourapi.com/api/users/1
+  http://localhost:3000/users/1
   ```
 
 (Replace `1` with the actual ID of the user you wish to delete.)
