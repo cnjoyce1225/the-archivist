@@ -39,7 +39,7 @@ Learn how to complete basic tasks with the To-Do service.
   * [Update users](./CRUD-topics/update-users.md)
   * [Delete users](./CRUD-topics/delete-users.md)
  
-*`collection` tutorials:
+* `collection` tutorials:
   * [Create collections](./CRUD-topics/add-collections.md)
   * [Get collections](./CRUD-topics/get-collections.md)
   * [Update collections](./CRUD-topics/update-collections.md)
