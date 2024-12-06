@@ -15,7 +15,7 @@ We recommend checking out our [list of use cases](./Tutorials/use-cases.md) for 
 Before putting The Archivist to use, please use our [Getting Started guide](./Tutorials/getting-started.md) that will ensure your systems are set up to use this API.
 
 ## Quickstart
-Once you've followed the `Getting Started` guide above, [click here](./Tutorials/quickstart.md) to learn the basics of working with this API.
+Once you've followed the `Getting Started` guide above, you can peform the first task with this API that you need to get started: [Adding a user](./Resources/CRUD-topics/add-users.md)!
 
 ## Resource reference docs
 You can learn how to use the API's two resources by exploring their pages below:
