@@ -6,7 +6,7 @@
 2. Set the request type to **GET**.
 3. Enter the URL for your API endpoint that retrieves users, for example:
 ```shell
-https://yourapi.com/api/users
+http://localhost:3000/users
 ```
 4. Click on the **Send** button to execute the request.
 5. You should see the response with the list of users in the response body.
