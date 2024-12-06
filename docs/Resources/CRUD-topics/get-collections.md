@@ -6,7 +6,7 @@
 2. Set the request type to **GET**.
 3. Enter the URL for your API endpoint that retrieves collections, for example:
 ```shell
-https://yourapi.com/api/collections
+http://localhost:3000/collections
 ```
 4. Click on the **Send** button to execute the request.
 5. You should see the response containing the list of collections in the response body.
