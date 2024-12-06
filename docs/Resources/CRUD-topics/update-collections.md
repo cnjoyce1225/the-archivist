@@ -9,7 +9,7 @@ In this reference, you'll learn how to update a collection in your API using Pos
 3. Enter the URL for your API endpoint that updates a collection, including the collection ID. For example:
 
 ```shell
-https://yourapi.com/api/collections/101
+http://localhost:3000/collections/101
 ```
 
 (Replace `101` with the actual ID of the collection you wish to update.)
