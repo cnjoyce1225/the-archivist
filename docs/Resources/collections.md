@@ -1,11 +1,9 @@
+---
+id: collection
+---
+
 # `collection` resource
 The `collection` resource contains details pertinent to the book collection. A `collection` may be blank, or include one or more books.
-
-## Base endpoint:
-
-```shell
-{base_url}/collections
-```
 
 
 ## Sample of the `collections` resource
