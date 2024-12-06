@@ -1,4 +1,4 @@
-# Add `users`
+# Create `users`
 
 ### Using Postman
 
