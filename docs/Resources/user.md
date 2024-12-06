@@ -4,12 +4,6 @@ id: user
 
 # `user` resource
 
-Base endpoint:
-
-```shell
-{base_url}/users
-```
-
 The `user` resource contains details about the individual using the service.
 
 ## Resource properties
