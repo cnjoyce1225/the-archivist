@@ -14,11 +14,11 @@ We recommend checking out our [list of use cases](./Tutorials/use-cases.md) for 
 
 Before putting The Archivist to use, please use our [Getting Started guide](./Tutorials/getting-started.md) that will ensure your systems are set up to use this API.
 
-The base endpoint you will use once you follow this guide will always be:
+* The base endpoint you will use once you follow this guide will always be:
 
-``` shell
-http://localhost:3000/
-```
+  ``` shell
+  http://localhost:3000/
+  ```
 
 ## Quickstart
 Once you've followed the `Getting Started` guide above, you can peform the first task with this API that you need to get started: [Adding a user](./Resources/CRUD-topics/add-users.md)!
