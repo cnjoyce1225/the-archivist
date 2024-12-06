@@ -31,6 +31,14 @@ You can learn how to use the API's two resources by exploring their pages below:
 
 ## Tutorials
 
-Learn how to complete basic tasks with the To-Do service!
+Learn how to complete basic tasks with the To-Do service.  
+
+* `user` tutorials:
+  * [Create users](./CRUD-topics/add-users.md)
+  * [Get users](./CRUD-topics/get-users.md)
+  * [Update users](./CRUD-topics/update-users.md)
+  * [Delete users](./CRUD-topics/delete-users.md)
+ 
+*`collection` tutorials:
 
 * TBD
