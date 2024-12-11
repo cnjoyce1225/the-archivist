@@ -16,17 +16,9 @@ GET /collections?first_name={first_name}&last_name={last_name}
 
 We will use the user `Liam Carter` as an example!
 
-1. Launch Postman on your computer.
-
-2. Create a New Request:
-
-* Click on the New button or the + tab to create a new request.
-* Select HTTP Request.
-
-3. Set Up the Request:
-
-* Set the request method to GET.
-* Enter the API endpoint URL:
+1. **Open Postman** and create a new request.
+2. Set the request type to **GET**.
+3. Enter the URL for your API endpoint that retrieves collections for `Liam Carter`:
 
 ``` shell
 http://localhost:3000/collections?first_name=Liam&last_name=Carter
