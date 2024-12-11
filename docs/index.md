@@ -25,7 +25,7 @@ You can learn how to use the API's two resources by exploring their pages below:
 * [collections](./Resources/collections.md)
 * [user](./Resources/user.md)
 
-## Simple tutorials
+## Tutorials
 
 Learn how to complete basic tasks with the To-Do service.  
 
