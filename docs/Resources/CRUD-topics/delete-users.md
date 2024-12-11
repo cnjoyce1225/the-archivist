@@ -45,7 +45,15 @@ The expected response from the curl command after successfully deleting the user
 ---
 
 ### Note:
-- Replace `https://yourapi.com/api/users/1` with the actual endpoint of your API that deletes a user.
 - Make sure the user ID specified in the URL exists in your database.
 - Ensure your API server is running and accessible when you execute these requests.
 - Deleting a user may also require certain permissions or authentication, so ensure you handle any authentication tokens as needed.
+
+---
+
+### Navigation
+
+* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/user.html)
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
+
