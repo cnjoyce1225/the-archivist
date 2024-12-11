@@ -60,7 +60,7 @@ The expected JSON response after successfully adding the collection might look l
 
 ### Navigation
 
-* Go to [collections](./docs/Resources/collections.md)
+* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/collections.html)
 
 * Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
 
