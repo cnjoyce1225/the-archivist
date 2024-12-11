@@ -12,8 +12,8 @@ The use cases are described below:
 
 ---
 ### Navigation
-* Go back to [collections](./Resources/collections.md)
+* Go to [collections](./Resources/collections.md)
 
-* Go back to [users](./Resources/user.md)
+* Go to [users](./Resources/user.md)
 
-* Go back to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
