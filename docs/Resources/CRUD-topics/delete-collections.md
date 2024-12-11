@@ -33,7 +33,7 @@ The expected response after successfully deleting the collection might look like
 You can use the following curl command in your terminal or command prompt to make the same DELETE request:
 
 ```shell
-curl -X DELETE "https://yourapi.com/api/collections/101"
+curl -X DELETE "http://localhost:3000/collections/101"
 ```
 
 ### Example Response
@@ -49,7 +49,6 @@ The expected response from the curl command after successfully deleting the coll
 ---
 
 ### Note:
-- Replace `https://yourapi.com/api/collections/101` with the actual endpoint of your API that deletes a collection.
 - Make sure the collection ID specified in the URL exists in your database.
 - Ensure your API server is running and accessible when you execute these requests.
 - Deleting a collection may also require certain permissions or authentication, so ensure you handle any authentication tokens as needed.
