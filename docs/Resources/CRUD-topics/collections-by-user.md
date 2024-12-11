@@ -32,8 +32,7 @@ We will use the user `Liam Carter` as an example!
 https://yourapi.com/api/collections?first_name=Liam&last_name=Carter
 ```
 
-4. Send the Request
-* Click the Send button.
+4. Click the `Send` button
 
 ### Expected Output
 * Postman will display the response in the lower section, showing the collections associated with the specified user, similar to the output from cURL.
