@@ -30,13 +30,13 @@ You can learn how to use the API's two resources by exploring their pages below:
 Learn how to complete basic tasks with the To-Do service.  
 
 * `user` tutorials:
-  * [Create users](./CRUD-topics/add-users.md)
-  * [Get users](./CRUD-topics/get-users.md)
-  * [Update users](./CRUD-topics/update-users.md)
-  * [Delete users](./CRUD-topics/delete-users.md)
+  * [Create users](./Resources/CRUD-topics/add-users.md)
+  * [Get users](./Resources/CRUD-topics/get-users.md)
+  * [Update users](./Resources/CRUD-topics/update-users.md)
+  * [Delete users](./Resources/CRUD-topics/delete-users.md)
  
 * `collection` tutorials:
-  * [Create collections](./CRUD-topics/add-collections.md)
-  * [Get collections](./CRUD-topics/get-collections.md)
-  * [Update collections](./CRUD-topics/update-collections.md)
-  * [Delete collections](./CRUD-topics/delete-collections.md)
+  * [Create collections](./Resources/CRUD-topics/add-collections.md)
+  * [Get collections](./Resources/CRUD-topics/get-collections.md)
+  * [Update collections](./Resources/CRUD-topics/update-collections.md)
+  * [Delete collections](./Resources/CRUD-topics/delete-collections.md)
