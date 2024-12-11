@@ -74,4 +74,4 @@ The `books` property has its own properties:
 * [Delete collections](./CRUD-topics/delete-collections.md)
 
 ---
-Go back to the [homepage](index.md)
+Go back to the [homepage](./index.md)
