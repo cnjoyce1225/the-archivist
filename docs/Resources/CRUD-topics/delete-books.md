@@ -49,7 +49,6 @@ The expected response from the curl command after successfully deleting the book
 ---
 
 ### Note:
-- Replace `https://yourapi.com/api/collections/101/books/1` with the actual endpoint of your API that deletes a book from a collection.
 - Make sure the collection ID and book ID specified in the URL exist in your database.
 - Ensure your API server is running and accessible when you execute these requests.
 - Deleting a book from a collection may also require certain permissions or authentication, so ensure you handle any authentication tokens as needed.
