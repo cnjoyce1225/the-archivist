@@ -10,7 +10,7 @@ We recommend checking out our [list of use cases](./Tutorials/use-cases.md) for 
 
 Before putting The Archivist to use, please use our [Getting Started guide](./Tutorials/getting-started.md) that will ensure your systems are set up to use this API.
 
-* The base endpoint you will use once you follow this guide will always be:
+* The base endpoint you will see used in all tutorials will be:
 
   ``` shell
   http://localhost:3000/
