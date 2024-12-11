@@ -1,6 +1,4 @@
----
-id: user
----
+
 
 # `user` resource
 
@@ -37,3 +35,5 @@ Sample `user` resource
 * [Update users](./CRUD-topics/update-users.md)
 * [Delete users](./CRUD-topics/delete-users.md)
 
+---
+Go back to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
