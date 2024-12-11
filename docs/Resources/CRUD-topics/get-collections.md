@@ -15,7 +15,7 @@ http://localhost:3000/collections
 
 You can use the following curl command in your terminal or command prompt to make the same GET request:
 ```shell
-curl -X GET "https://yourapi.com/api/collections"
+curl -X GET "http://localhost:3000/collections"
 ```
 ### Example Output
 
