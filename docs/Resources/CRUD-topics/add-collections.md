@@ -55,3 +55,10 @@ The expected JSON response after successfully adding the collection might look l
 ### Note:
 - Ensure that the `user_id` corresponds to a valid user in your database.
 - Ensure your API server is running and accessible when you execute these requests.
+
+### Navigation
+
+* Go to [collections](./collections.md)
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
+
