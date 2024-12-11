@@ -11,7 +11,7 @@ The use cases are described below:
 | `collection` |  No user can view this collection | All users can view this collection  |
 
 ---
-
+### Navigation
 Go back to [collections](./Resources/collections.md)
 
 Go back to [users](./Resources/user.md)
