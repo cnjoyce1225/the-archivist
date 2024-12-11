@@ -13,6 +13,6 @@ The use cases are described below:
 ---
 
 ---
-
-
+Go back to [collections](./Resources/collections.md)
+Go back to [users](./Resources/user.md)
 Go back to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
