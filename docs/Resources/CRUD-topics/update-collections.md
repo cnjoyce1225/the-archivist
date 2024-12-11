@@ -51,7 +51,7 @@ The expected response after successfully updating the collection might look like
 You can use the following curl command in your terminal or command prompt to make the same update request:
 
 ```shell
-curl -X PUT "https://yourapi.com/api/collections/101" \
+curl -X PUT "http://localhost:3000/collections/101" \
 -H "Content-Type: application/json" \
 -d '{
   "name": "Updated Collection Name",
