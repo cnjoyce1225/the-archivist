@@ -28,7 +28,7 @@ http://localhost:3000/users
 You can use the following curl command in your terminal or command prompt to make the same POST request:
 
   ```shell
-  curl -X POST "https://yourapi.com/api/users" \
+  curl -X POST "http://localhost:3000/users" \
   -H "Content-Type: application/json" \
   -d '{
     "first_name": "John",
@@ -52,6 +52,5 @@ The expected JSON response after successfully adding the user might look like th
   ```
 
 ### Note:
-- Replace `https://yourapi.com/api/users` with the actual endpoint of your API that adds a user.
 - Ensure that the email is unique and does not already exist in the database.
 - Ensure your API server is running and accessible when you execute these requests.
