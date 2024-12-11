@@ -53,7 +53,7 @@ The expected response from the curl command after successfully deleting the user
 
 ### Navigation
 
-* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/user.html)
+* Go to the [user resource](https://cnjoyce1225.github.io/the-archivist/Resources/user.html)
 
 * Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
 
