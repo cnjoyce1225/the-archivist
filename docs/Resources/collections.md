@@ -44,7 +44,7 @@ The properies of a `collection` are as follows:
 | `privacy` | string | [Privacy level of the collection](privacy.md)  | Yes |
 | `created_at` | string | Date the collection was created  | Yes |
 | *`books` | array | List of books in the collection  | No |  
-
+  
 
 The `books` property has its own properties:
 
@@ -74,6 +74,4 @@ The `books` property has its own properties:
 * [Delete collections](./CRUD-topics/delete-collections.md)
 
 ---
-Go back to the [homepage](./index.md)  
-Go back to the [homepage](./docs/index.md)
 Go back to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
