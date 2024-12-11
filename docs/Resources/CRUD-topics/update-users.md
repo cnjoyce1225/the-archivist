@@ -52,7 +52,7 @@ The expected response after successfully updating the user might look like this:
 You can use the following curl command in your terminal or command prompt to make the same update request:
 
 ```shell
-curl -X PUT "https://yourapi.com/api/users/1" \
+curl -X PUT "http://localhost:3000/users/1" \
 -H "Content-Type: application/json" \
 -d '{
   "first_name": "John",
