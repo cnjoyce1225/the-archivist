@@ -38,7 +38,7 @@ You should see the response containing the list of collections for that user in 
 
 We will use the user `Liam Carter` as an example!
 
-1. Use the following curl command in your terminal or command prompt to make this GET request:
+1. You can use the following curl command in your terminal or command prompt to make the same GET request:
 
 ``` shell
 curl -X GET "http://localhost:3000/collections?first_name=Liam&last_name=Carter" \
