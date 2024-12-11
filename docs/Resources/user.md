@@ -36,4 +36,9 @@ Sample `user` resource
 * [Delete users](./CRUD-topics/delete-users.md)
 
 ---
-Go back to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
+---
+### Navigation
+
+* Go to [collections](./Resources/collections.md)
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
