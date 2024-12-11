@@ -35,7 +35,7 @@ https://yourapi.com/api/collections?first_name=Liam&last_name=Carter
 4. Send the Request
 * Click the Send button.
 
-# Expected Output
+### Expected Output
 * Postman will display the response in the lower section, showing the collections associated with the specified user, similar to the output from cURL.
 * If this dosn't work, after Step 3, you should set headers. You can do this by going to the `Headers` tab and adding a new header with the qualities:
   * Key: `Content-Type`
