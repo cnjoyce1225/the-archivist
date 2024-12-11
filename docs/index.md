@@ -38,11 +38,7 @@ Learn how to complete basic tasks with the To-Do service.
 * `collection` tutorials:
   * [Create collections](./Resources/CRUD-topics/add-collections.md)
   * [Get collections](./Resources/CRUD-topics/get-collections.md)
+  * [Get collection by user](./Resources/CRUD-topics/collections-by-user.md)
   * [Update collections](./Resources/CRUD-topics/update-collections.md)
   * [Delete collections](./Resources/CRUD-topics/delete-collections.md)
   * [Delete books](./Resources/CRUD-topics/delete-books.md)
- 
-## Advanced tutorials:
-
-The following tutorials will require you to enter more details when completing tasks:
-* [Get collection by user](./Resources/CRUD-topics/collections-by-user.md)
