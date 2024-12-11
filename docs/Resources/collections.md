@@ -33,7 +33,9 @@ The `collection` resource contains details pertinent to the book collection. A `
 ```
 
 ## Properties
+
 The properies of a `collection` are as follows:
+
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
 | `collection_id` | number | ID of the collection | Yes |
