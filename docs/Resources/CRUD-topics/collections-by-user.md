@@ -29,7 +29,7 @@ We will use the user `Liam Carter` as an example!
 * Enter the API endpoint URL:
 
 ``` shell
-https://yourapi.com/api/collections?first_name=Liam&last_name=Carter
+http://localhost:3000/api/collections?first_name=Liam&last_name=Carter
 ```
 
 4. Click the `Send` button
@@ -49,7 +49,7 @@ We will use the user `Liam Carter` as an example!
 1. Use the following curl command in your terminal or command prompt to make this GET request:
 
 ``` shell
-curl -X GET "https://yourapi.com/api/collections?first_name=Liam&last_name=Carter" \
+curl -X GET "http://localhost:3000/api/collections?first_name=Liam&last_name=Carter" \
      -H "Content-Type: application/json"
 ```
 
