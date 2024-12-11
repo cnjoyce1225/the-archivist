@@ -74,4 +74,8 @@ The `books` property has its own properties:
 * [Delete collections](./CRUD-topics/delete-collections.md)
 
 ---
-Go back to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
+### Navigation
+
+* Go to 
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
