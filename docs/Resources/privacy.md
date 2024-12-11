@@ -12,7 +12,6 @@ The use cases are described below:
 
 ---
 
----
 Go back to [collections](./Resources/collections.md)
 
 Go back to [users](./Resources/user.md)
