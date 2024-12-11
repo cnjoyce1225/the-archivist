@@ -39,6 +39,6 @@ Sample `user` resource
 ---
 ### Navigation
 
-* Go to [collections](./Resources/collections.md)
+* Go to [collections](./collections.md)
 
 * Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
