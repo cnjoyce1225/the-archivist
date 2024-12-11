@@ -14,16 +14,14 @@ GET /api/collections?first_name={first_name}&last_name={last_name}
 
 ## Using Postman to get the collection
 
-1. Open Postman
+1. Launch Postman on your computer.
 
-* Launch Postman on your computer.
-
-2. Create a New Request
+2. Create a New Request:
 
 * Click on the New button or the + tab to create a new request.
 * Select HTTP Request.
 
-3. Set Up the Request
+3. Set Up the Request:
 
 * Set the request method to GET.
 * Enter the API endpoint URL:
