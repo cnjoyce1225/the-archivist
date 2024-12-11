@@ -9,3 +9,10 @@ The use cases are described below:
 | ------------- | ----------- | ----------- |
 | `user` | No user can view this user's profile | All users can view this user's profile |
 | `collection` |  No user can view this collection | All users can view this collection  |
+
+---
+
+---
+
+
+Go back to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
