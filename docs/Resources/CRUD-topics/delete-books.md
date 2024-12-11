@@ -52,3 +52,11 @@ The expected response from the curl command after successfully deleting the book
 - Make sure the collection ID and book ID specified in the URL exist in your database.
 - Ensure your API server is running and accessible when you execute these requests.
 - Deleting a book from a collection may also require certain permissions or authentication, so ensure you handle any authentication tokens as needed.
+
+---
+
+### Navigation
+
+* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/collections.html)
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
