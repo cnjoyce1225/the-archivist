@@ -15,7 +15,7 @@ http://localhost:3000/users
 ### Using Curl
 You can use the following curl command in your terminal or command prompt to make the same GET request:
 ```shell
-curl -X GET "https://yourapi.com/api/users"
+curl -X GET "http://localhost:3000/users"
 ```
 ### Example Output
 
@@ -60,5 +60,4 @@ The expected JSON response for the users might look like this:
 ---
 
 ### Note:
-- Replace `https://yourapi.com/api/users` with the actual endpoint of your API that returns the list of users.
 - Make sure your API server is running and accessible when you execute these requests.
