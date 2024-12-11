@@ -80,7 +80,14 @@ The expected response from the curl command after successfully updating the coll
 ---
 
 ### Note:
-- Replace `https://yourapi.com/api/collections/101` with the actual endpoint of your API that updates a collection.
 - Ensure that the collection ID specified in the URL exists in your database.
 - Ensure your API server is running and accessible when you execute these requests.
 - Updating a collection may also require certain permissions or authentication, so ensure you handle any authentication tokens as needed.
+
+---
+
+### Navigation
+
+* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/collections.html)
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
