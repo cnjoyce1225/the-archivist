@@ -45,7 +45,7 @@ curl -X GET "http://localhost:3000/collections?first_name=Liam&last_name=Carter"
      -H "Content-Type: application/json"
 ```
 
-### Expected Output
+### Example Output
 
 The API should return a response containing the collections associated with the specified user. For example:
 
