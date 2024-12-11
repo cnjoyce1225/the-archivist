@@ -25,7 +25,7 @@ You can learn how to use the API's two resources by exploring their pages below:
 * [collections](./Resources/collections.md)
 * [user](./Resources/user.md)
 
-## Tutorials
+## Simple tutorials
 
 Learn how to complete basic tasks with the To-Do service.  
 
@@ -41,3 +41,8 @@ Learn how to complete basic tasks with the To-Do service.
   * [Update collections](./Resources/CRUD-topics/update-collections.md)
   * [Delete collections](./Resources/CRUD-topics/delete-collections.md)
   * [Delete books](./Resources/CRUD-topics/delete-books.md)
+ 
+## Advanced tutorials:
+
+The following tutorials will require you to enter mmore details when completing tasks:
+* [Get collection by user](./Resources/CRUD-topics/collections-by-user.md)
