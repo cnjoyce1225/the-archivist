@@ -33,7 +33,7 @@ The expected response after successfully deleting the book might look like this:
 You can use the following curl command in your terminal or command prompt to make the same DELETE request:
 
 ```shell
-curl -X DELETE "https://yourapi.com/api/collections/101/books/1"
+curl -X DELETE "http://localhost:3000/collections/101/books/1"
 ```
 
 ### Example Response
