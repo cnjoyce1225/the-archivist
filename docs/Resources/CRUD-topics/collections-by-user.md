@@ -24,10 +24,10 @@ We will use the user `Liam Carter` as an example!
 http://localhost:3000/collections?first_name=Liam&last_name=Carter
 ```
 
-4. Click the `Send` button
+4. Click the Send button to execute the request.
 
-### Expected Output
-* Postman will display the response in the lower section, showing the collections associated with the specified user, similar to the output from cURL.
+You should see the response containing the list of collections for that user in the response body.
+
 * If this dosn't work, after Step 3, you should set headers. You can do this by going to the `Headers` tab and adding a new header with the qualities:
   * Key: `Content-Type`
   * Value: `application/json`
