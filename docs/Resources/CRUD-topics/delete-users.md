@@ -31,7 +31,7 @@ The expected response after successfully deleting the user might look like this:
 
 You can use the following curl command in your terminal or command prompt to make the same DELETE request:
 ```shell
-curl -X DELETE "https://yourapi.com/api/users/1"
+curl -X DELETE "http://localhost:3000/users/1"
 ```
 
 ### Example Response
