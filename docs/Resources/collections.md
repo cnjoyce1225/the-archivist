@@ -76,6 +76,6 @@ The `books` property has its own properties:
 ---
 ### Navigation
 
-* Go to [users](./user.md)
+* Go to the [user resource](./user.md)
 
 * Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)

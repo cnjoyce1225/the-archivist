@@ -40,3 +40,4 @@ Learn how to complete basic tasks with the To-Do service.
   * [Get collections](./Resources/CRUD-topics/get-collections.md)
   * [Update collections](./Resources/CRUD-topics/update-collections.md)
   * [Delete collections](./Resources/CRUD-topics/delete-collections.md)
+  * [Delete books](./Resources/CRUD-topics/delete-books.md)

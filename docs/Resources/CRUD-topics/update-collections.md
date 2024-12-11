@@ -88,6 +88,6 @@ The expected response from the curl command after successfully updating the coll
 
 ### Navigation
 
-* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/collections.html)
+* Go to the [collection resource](https://cnjoyce1225.github.io/the-archivist/Resources/collections.html)
 
 * Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)

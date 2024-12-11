@@ -59,6 +59,6 @@ The expected JSON response after successfully adding the user might look like th
 
 ### Navigation
 
-* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/user.html)
+* Go to the [user resource](https://cnjoyce1225.github.io/the-archivist/Resources/user.html)
 
 * Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
