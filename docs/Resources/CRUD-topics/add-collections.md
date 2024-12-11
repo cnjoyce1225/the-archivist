@@ -26,7 +26,7 @@ http://localhost:3000/collections
 
 You can use the following curl command in your terminal or command prompt to make the same POST request:
 ```shell
-curl -X POST "https://yourapi.com/api/collections" \
+curl -X POST "http://localhost:3000/collections" \
 -H "Content-Type: application/json" \
 -d '{
   "user_id": 1,
@@ -53,6 +53,5 @@ The expected JSON response after successfully adding the collection might look l
 ---
 
 ### Note:
-- Replace `https://yourapi.com/api/collections` with the actual endpoint of your API that adds a collection.
 - Ensure that the `user_id` corresponds to a valid user in your database.
 - Ensure your API server is running and accessible when you execute these requests.
