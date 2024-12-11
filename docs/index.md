@@ -44,5 +44,5 @@ Learn how to complete basic tasks with the To-Do service.
  
 ## Advanced tutorials:
 
-The following tutorials will require you to enter mmore details when completing tasks:
+The following tutorials will require you to enter more details when completing tasks:
 * [Get collection by user](./Resources/CRUD-topics/collections-by-user.md)
