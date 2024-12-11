@@ -110,3 +110,11 @@ The expected JSON response for the collections might look like this:
 
 ### Note:
 - Make sure your API server is running and accessible when you execute these requests.
+
+---
+
+### Navigation
+
+* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/collections.html)
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
