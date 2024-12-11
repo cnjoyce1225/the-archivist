@@ -86,3 +86,12 @@ The expected response from the curl command after successfully updating the user
 - Ensure that the user ID specified in the URL exists in your database.
 - Ensure your API server is running and accessible when you execute these requests.
 - Updating a user may also require certain permissions or authentication, so ensure you handle any authentication tokens as needed.
+
+---
+
+### Navigation
+
+* Go to [collections](https://cnjoyce1225.github.io/the-archivist/Resources/user.html)
+
+* Go to the [homepage](https://cnjoyce1225.github.io/the-archivist/)
+
