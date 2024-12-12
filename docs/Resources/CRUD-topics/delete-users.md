@@ -1,4 +1,4 @@
-# Delete `users`
+# Delete a `user`
 
 In this reference, you'll learn how to delete a user from your API using Postman and curl. Deleting a user typically requires the use of the DELETE HTTP method.
 
