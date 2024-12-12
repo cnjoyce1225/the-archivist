@@ -1,4 +1,4 @@
-# Create `collection`
+# Create a `collection`
 
 ### Using Postman
 
