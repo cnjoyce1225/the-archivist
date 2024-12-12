@@ -1,4 +1,4 @@
-# Delete a book from `collections`
+# Delete a book from a `collection`
 
 In this reference, you'll learn how to delete a book from a collection in your API using Postman and curl. Deleting a book typically requires the use of the DELETE HTTP method.
 
