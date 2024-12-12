@@ -1,6 +1,6 @@
 # Update a `user`
 
-In this reference, you'll learn how to update a user's information in your API using Postman and curl. Updating a user typically requires the use of the PUT or PATCH HTTP method.
+In this reference, you'll learn how to update a user's information in your API using Postman and curl.
 
 ### Updating a User in Postman
 
