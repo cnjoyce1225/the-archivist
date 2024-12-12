@@ -18,7 +18,7 @@ The `user` resource contains details about the individual using the service.
   ```
 
 
-## Resource properties
+## `User` properties
 
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
