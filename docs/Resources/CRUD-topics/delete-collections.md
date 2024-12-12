@@ -1,4 +1,4 @@
-# Deleting `collections`
+# Deleting a `collection`
 
 In this reference, you'll learn how to delete a collection from your API using Postman and curl. Deleting a collection typically requires the use of the DELETE HTTP method.
 
