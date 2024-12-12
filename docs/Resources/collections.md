@@ -27,7 +27,7 @@ The `collection` resource contains details pertinent to the book collection. A `
           "price": "$17,500",
           "seller": "Heritage Books Haven",
           "language": "English",
-          "status": "Acquired",
+          "status": "Acquired"
         }
 }
 ```
