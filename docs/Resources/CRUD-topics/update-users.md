@@ -1,6 +1,6 @@
 # Update a `user`
 
-In this reference, you'll learn how to update a user's information in your API using Postman and curl.
+Learn how to update a `user` in your API using Postman and cURL!
 
 ### Updating a User in Postman
 
