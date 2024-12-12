@@ -29,7 +29,7 @@ The `user` resource contains details about the individual using the service.
 | `id` | number | User's unique record ID | Yes |
 
 
-## Actions for `users`
+## Actions for `user`
 
 * [Create users](./CRUD-topics/add-users.md)
 * [Get users](./CRUD-topics/get-users.md)
