@@ -1,4 +1,4 @@
-# Create `user`
+# Create a `user`
 
 ### Using Postman
 
