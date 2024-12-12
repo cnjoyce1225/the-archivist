@@ -4,17 +4,7 @@
 
 The `user` resource contains details about the individual using the service.
 
-## Resource properties
-
-| Property name | Type | Description | Required? |
-| ------------- | ----------- | ----------- | ----------- |
-| `last_name` | string | User's last name | Yes |
-| `first_name` | string | User's first name | Yes |
-| `privacy` | string | [Privacy level of user](https://github.com/cnjoyce1225/the-archivist/blob/9dbb03c52f3094ad080aaba5c88647ca44a9ed16/Docs/References/privacy.md) | Yes |
-| `email` | string | User's email address | Yes |
-| `id` | number | User's unique record ID | Yes |
-
-Sample `user` resource
+## Sample `user` resource
 
   ```js
 
@@ -26,6 +16,17 @@ Sample `user` resource
     "id": 1
 }
   ```
+
+
+## Resource properties
+
+| Property name | Type | Description | Required? |
+| ------------- | ----------- | ----------- | ----------- |
+| `last_name` | string | User's last name | Yes |
+| `first_name` | string | User's first name | Yes |
+| `privacy` | string | [Privacy level of user](https://github.com/cnjoyce1225/the-archivist/blob/9dbb03c52f3094ad080aaba5c88647ca44a9ed16/Docs/References/privacy.md) | Yes |
+| `email` | string | User's email address | Yes |
+| `id` | number | User's unique record ID | Yes |
 
 
 ## Actions for `users`
