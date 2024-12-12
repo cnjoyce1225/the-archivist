@@ -62,7 +62,13 @@ The properies of a `collection` are as follows:
 | `price` | number | Price paid for the book | No |
 | `seller` | string | Store the book was purchased from  | No |
 | `language` | string | Language the book's text is in  | No |
-| `status` | string | `wishilist`, `acquired`, `partially_read`, or `fully_read`  | No |
+| **`status` | string | `wishilist`, `acquired`, `partially_read`, or `fully_read`  | No |
+
+**The meanings behind each status are:
+* `wishlist`: the user doesn't possess the book yet, but would like to purchase it
+* `acquired`: the user possesses the book, but has not yet read it
+* `partially_read`: the user has read part of the book
+* `fully_read`: the user has read the entire book
   
 
 
