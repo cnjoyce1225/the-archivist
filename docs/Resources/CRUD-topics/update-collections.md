@@ -1,6 +1,6 @@
 # Update a `collection`
 
-In this reference, you'll learn how to update a collection in your API using Postman and curl.
+Learn how to update a `collection` in your API using Postman and cURL!
 
 ### Updating a Collection in Postman
 
