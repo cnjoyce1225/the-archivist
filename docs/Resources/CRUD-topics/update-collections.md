@@ -1,4 +1,4 @@
-# Update `collections`
+# Update a `collection`
 
 In this reference, you'll learn how to update a collection in your API using Postman and curl. Updating a collection typically requires the use of the PUT or PATCH HTTP method.
 
