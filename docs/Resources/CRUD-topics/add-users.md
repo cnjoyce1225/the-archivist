@@ -1,5 +1,7 @@
 # Create a `user`
 
+Learn how to create a `user` in your API using Postman and cURL!
+
 ### Using Postman
 
 1. **Open Postman** and create a new request.
