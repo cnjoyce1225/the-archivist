@@ -66,7 +66,7 @@ The `books` property has its own properties:
   
 
 
-## Actions for `collections`
+## Actions for `collection`
 
 * [Create collections](./CRUD-topics/add-collections.md)
 * [Get collections](./CRUD-topics/get-collections.md)
