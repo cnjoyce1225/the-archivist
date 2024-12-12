@@ -4,7 +4,7 @@
 The `collection` resource contains details pertinent to the book collection. A `collection` may be blank, or include one or more books.
 
 
-## Sample of the `collections` resource
+## Sample `collection` resource
 
 ```js
 {
