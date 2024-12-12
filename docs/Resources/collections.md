@@ -32,7 +32,7 @@ The `collection` resource contains details pertinent to the book collection. A `
 }
 ```
 
-## Properties
+## `Collection` Properties
 
 The properies of a `collection` are as follows:
 
