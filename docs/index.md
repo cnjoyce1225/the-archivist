@@ -30,15 +30,15 @@ You can learn how to use the API's two resources by exploring their pages below:
 Learn how to complete basic tasks with the To-Do service.  
 
 * `user` tutorials:
-  * [Create users](./Resources/CRUD-topics/add-users.md)
+  * [Create user](./Resources/CRUD-topics/add-users.md)
   * [Get users](./Resources/CRUD-topics/get-users.md)
-  * [Update users](./Resources/CRUD-topics/update-users.md)
-  * [Delete users](./Resources/CRUD-topics/delete-users.md)
+  * [Update user](./Resources/CRUD-topics/update-users.md)
+  * [Delete user](./Resources/CRUD-topics/delete-users.md)
  
 * `collection` tutorials:
-  * [Create collections](./Resources/CRUD-topics/add-collections.md)
+  * [Create collection](./Resources/CRUD-topics/add-collections.md)
   * [Get collections](./Resources/CRUD-topics/get-collections.md)
   * [Get collection by user](./Resources/CRUD-topics/collections-by-user.md)
-  * [Update collections](./Resources/CRUD-topics/update-collections.md)
-  * [Delete collections](./Resources/CRUD-topics/delete-collections.md)
-  * [Delete books](./Resources/CRUD-topics/delete-books.md)
+  * [Update collection](./Resources/CRUD-topics/update-collections.md)
+  * [Delete collection](./Resources/CRUD-topics/delete-collections.md)
+  * [Delete book](./Resources/CRUD-topics/delete-books.md)
