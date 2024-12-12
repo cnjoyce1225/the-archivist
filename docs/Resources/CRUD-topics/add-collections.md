@@ -1,6 +1,6 @@
 # Create a `collection`
 
-Learn how to create a collection in your API using Postman and cURL!
+Learn how to create a `collection` in your API using Postman and cURL!
 
 
 ### Using Postman
