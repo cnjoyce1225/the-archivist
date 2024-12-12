@@ -46,7 +46,7 @@ The properies of a `collection` are as follows:
 | *`books` | array | List of books in the collection  | No |  
         
   
-The `books` property has its own properties:
+*The `books` property has its own properties:
 
 | Property name | Type | Description | Required? |
 | ------------- | ----------- | ----------- | ----------- |
