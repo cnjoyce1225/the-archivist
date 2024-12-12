@@ -1,5 +1,7 @@
 # Get `collections`
 
+Learn how to get `collections` in your API using Postman and cURL!
+
 ### Using Postman
 
 1. **Open Postman** and create a new request.
