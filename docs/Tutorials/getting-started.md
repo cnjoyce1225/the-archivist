@@ -51,7 +51,6 @@ Install Express and body-parser by running:
    In your command line, execute the following command in your project directory:
 
    ``` shell
-   bash
    node server.js
    ```
 
