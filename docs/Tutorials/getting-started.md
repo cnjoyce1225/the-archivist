@@ -80,7 +80,7 @@ Now that your API server is running, it’s time to test your setup using cURL a
 
    ``` shell
    curl http://localhost:3000/collections
-   ``` shell
+   ```
 
 4. **Check Responses**:
    You should see JSON responses for both commands if everything is set up correctly.
