@@ -19,7 +19,7 @@ Once you've followed the `Getting Started` guide above, you can peform the first
 ## Resource reference docs
 You can learn how to use the API's two resources by exploring their pages below:
 
-* [collections](./Resources/collections.md)
+* [collection](./Resources/collections.md)
 * [user](./Resources/user.md)
 
 ## Tutorials
