@@ -1,6 +1,6 @@
 # Ideas for Using The Archivist
 
-1. Personal Library Management System
+1. **Personal Library Management System**
 
     * Users can create and manage their personal libraries by storing information about their book collections, including details like title, author, condition, and seller.
     * A user logs in to the application, retrieves their collection, adds new books, and updates the condition or status of existing books.  
